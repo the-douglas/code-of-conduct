@@ -16,15 +16,15 @@ reviewing and following these Community Guidelines.
 
 ## General Guidelines
 
-- *Speak for yourself*: Unless you are communicating on behalf of us in the performance of your
+- **Speak for yourself**: Unless you are communicating on behalf of us in the performance of your
 job, make it clear the views you are expressing are yours and do not necessarily reflect ours.
-- *Be Real*: Pseudonyms, alter-egos, and avatars are not permitted to use our platforms. We are
+- **Be Real**: Pseudonyms, alter-egos, and avatars are not permitted to use our platforms. We are
 a professional community and require that you participate using your real name at all times.
-- *Be respectful*: Treat others with courtesy and respect. Do not publish anything defamatory or
+- **Be respectful**: Treat others with courtesy and respect. Do not publish anything defamatory or
 abusive about any activities, policies, or strategies, or toward fellow alumni.
-- *Be professional*: Remember that conflicts are typically best resolved by concise
+- **Be professional**: Remember that conflicts are typically best resolved by concise
 communication or working with the Alumni Director.
-- *Respect confidentiality*: Do not publish confidential information about Galvanize or Hack Reactor, and respect the privacy of your fellow alumni.
+- **Respect confidentiality**: Do not publish confidential information about Galvanize or Hack Reactor, and respect the privacy of your fellow alumni.
 
 ## Specific Policy
 
