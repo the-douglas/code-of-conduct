@@ -20,12 +20,16 @@ reviewing and following these Community Guidelines.
 
 ● Speak for yourself: Unless you are communicating on behalf of us in the performance of your
 job, make it clear the views you are expressing are yours and do not necessarily reflect ours.
+
 ● Be Real: Pseudonyms, alter-egos, and avatars are not permitted to use our platforms. We are
 a professional community and require that you participate using your real name at all times.
+
 ● Be respectful: Treat others with courtesy and respect. Do not publish anything defamatory or
 abusive about any activities, policies, or strategies, or toward fellow alumni.
+
 ● Be professional: Remember that conflicts are typically best resolved by concise
 communication or working with the Alumni Director.
+
 ● Respect confidentiality: Do not publish confidential information about Galvanize or Hack
 Reactor, and respect the privacy of your fellow alumni.Specific Policy
 While we hope to build a community of learners through our platforms, we will be forced to remove
@@ -41,19 +45,27 @@ statements regarding appearance, intellect, personality traits, and hygiene.
 Do not post:
 
 ● Content that threatens an individual with violence
+
 ● Content that wishes death, serious disease, physical, or other harm on an individual
+
 ● Content that incites violence or coordinated harassment
-● Content that sexually harasses a user by disparaging their sexual activities or attempting to
-make unwanted sexual contact
+
+● Content that sexually harasses a user by disparaging their sexual activities or attempting to make unwanted sexual contact
+
 ● Content that disparages a private individual on the basis of attributes such as intellect,
 appearance, personality traits, or hygiene
+
 ● Content that praises violent tragedies and disparages their victims
+
 Infringement of others’ privacy
+
 Revealing or threatening to reveal personally identifiable information can cause emotional distress
 and lead to harm. We consider it a form of abuse and do not allow it in our community. Do not post:
+
 ● Content that reveals or threatens to reveal personally identifiable information, including but
 not limited to residential address, private email address, private phone number, bank
 statement, social security number, or passport number
+
 ● Threats to reveal sexual imagery or non-consensual intimate imagery
 
 ## Misleading information
@@ -65,8 +77,11 @@ and address all misinformation that could cause harm to an individual's health o
 Do not post:
 
 ● Misinformation meant to incite fear, hate, or prejudice
+
 ● Misinformation that may cause harm to an individual's health
+
 ● Hoaxes, phishing attempts, or manipulated content meant to cause harm
+
 ● Content that misleads community members about elections or other civic processes
 
 If you’re unsure whether your post is appropriate, consider whether you would post it at work
